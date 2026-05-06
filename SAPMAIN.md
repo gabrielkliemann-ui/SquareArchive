@@ -49,9 +49,9 @@ __________________________
 | Date             | Location                                    | Details |
 | ---------------- | ------------------------------------------- | ------- |
 | JANUARY 20, 2024 | ???<br>??, ??, United States                | ???     |
-| MAY 29, 2024     | Rubber Gloves<br>Houston, Texas, United States | ???     |
-| OCTOBER 4, 2023  | ???                                         | ???     |
-| ?? ??, 2023      | Green Room<br>Tyler, Texas, United States   | ???     |
+| MAY 24, 2024     | Rubber Gloves<br>Denton, Texas, United States | ???     |
+| MAY 29, 2024     | The Shredder<br>Boise, Idaho, United States | ???     |
+| ?? ??, 2024      | Green Room<br>Tyler, Texas, United States   | ???     |
 
 </details>
 __________________________
