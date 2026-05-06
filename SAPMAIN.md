@@ -27,7 +27,7 @@ __________________________
 | ---------------- | ------------------------------------------- | ------- |
 | JANUARY 27, 2023 | House of Commons                            | ???     |
 | MARCH 4, 2023    | House of J<br>Houston, Texas, United States | ???     |
-| OCTOBER 4, 2023  | 
+| OCTOBER 4, 2023  | ???                                         | ???     |
 | ?? ??, 2023      | Green Room<br>Tyler, Texas, United States   | ???     |
 
   
