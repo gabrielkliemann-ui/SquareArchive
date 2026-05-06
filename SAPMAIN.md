@@ -18,16 +18,14 @@ APRIL 28, 2022                 ???                               ???
 
 
   <summary>2023</summary>
-  Date              |          Location            |             Details
-  
-  JANUARY 27, 2023         House of Commons                        ???
-
-
-  MARCH 4, 2023               House of J                           ???
-                      Houston, Texas, United States
-  
-  ?? ??, 2023                Green Room
-                     Tyler, Texas, United States
+  Date            | Location                      | Details
+------------------|-------------------------------|--------
+January 27, 2023  | House of Commons              | ???
+                  |                               |
+March 4, 2023     | House of J                    | ???
+                  | Houston, Texas, United States |
+?? ??, 2023       | Green Room                    | ???
+                  | Tyler, Texas, United States   |
   
   
   
