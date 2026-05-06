@@ -4,10 +4,35 @@
   <p align="center">HAVE YOU EVER TAPED A SAP SHOW?</p>
   
   <p align="center">IF YES, PLEASE CONTACT US (saparchive@gmail.com)</p>
-
 <details>
+  <summary>2022</summary>
+Date              |          Location            |             Details
+
+APRIL 28, 2022                 ???                               ???
+
+
+</details>
+<details>
+  __________________________
+
+
+
   <summary>2023</summary>
-  insert 2023 information
+  Date              |          Location            |             Details
+  
+  JANUARY 27, 2023         House of Commons                        ???
+
+
+  MARCH 4, 2023               House of J                           ???
+                      Houston, Texas, United States
+  
+  ?? ??, 2023                Green Room
+                     Tyler, Texas, United States
+  
+  
+  
+  
+  OCTOBBER 4, 2023
 </details>
 __________________________
 
