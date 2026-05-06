@@ -72,7 +72,7 @@ __________________________
 | NOVEMBER 4, 2025 | [???](NOINFO.md)<br>Boston, Massachusetts, United States   | Show Some Manners Tour     |
 | NOVEMBER 6, 2025 | [Hidden Gem Club](HIDDENGEM.md)<br>Dayton, Ohio, United States   | Show Some Manners Tour     |
 | NOVEMBER 7, 2025 | [Downstairs at Subterranean](SUBTSAP.md)<br>Chicago, Illinois, United States   | Show Some Manners Tour     |
-| NOVEMBER 10, 2025 | [](SUBTSAP.md)<br>Nashville, Tennessee, United States   | Show Some Manners Tour     |
+| NOVEMBER 10, 2025 | [???](NOINFO.md)<br>Nashville, Tennessee, United States   | Show Some Manners Tour     |
 
 
 
