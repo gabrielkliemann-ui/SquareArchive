@@ -63,7 +63,7 @@ __________________________
 | ---------------- | ------------------------------------------- | ------- |
 | JANUARY 27, 2025 | [House of Commons](HOUSECOMMONS.md)<br>??, ??, United States   | ???     |
 | AUGUST 15, 2025    | [Paper Tiger](PAPERTIGER.md)<br>San Antonio, Texas, United States | ???     |
-| OCTOBER 18, 2025  | [Axelrad](AXELRAD.md)<br>Houston, Texas, United States           | ???     |
+| OCTOBER 18, 2025  | [Axelrad](AXELRAD.md)<br>Houston, Texas, United States           |  Show Some Manners Tour   |
 | NOVEMBER 7, 2025 | [Downstairs at Subterranean](SUBTSAP.md)<br>Chicago, Illinois, United States   | ???     |
 
 
