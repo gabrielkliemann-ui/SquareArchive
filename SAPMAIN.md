@@ -31,7 +31,7 @@ __________________________
 | JANUARY 27, 2023 | [House of Commons](HOUSECOMMONS.md)<br>??, ??, United States   | ???     |
 | MARCH 4, 2023    | [House of J](HOUSEJ.md)<br>Houston, Texas, United States | ???     |
 | OCTOBER 4, 2023  | ???                                         | ???     |
-| ?? ??, 2023      | Green Room<br>Tyler, Texas, United States   | ???     |
+| ?? ??, 2023      | [Green Room](GREENROOM.md)<br>Tyler, Texas, United States   | ???     |
 
   
   
