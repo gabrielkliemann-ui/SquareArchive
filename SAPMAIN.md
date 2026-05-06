@@ -58,7 +58,15 @@ __________________________
 
 <details>
   <summary>2025</summary>
-  insert 2025 information
+
+| Date             | Location                                    | Details |
+| ---------------- | ------------------------------------------- | ------- |
+| JANUARY 27, 2025 | [House of Commons](HOUSECOMMONS.md)<br>??, ??, United States   | ???     |
+| MARCH 4, 2025    | [House of J](HOUSEJ.md)<br>Houston, Texas, United States | ???     |
+| OCTOBER 4, 2025  | [???](UNKNOWNSAP2.md)<br>??, ??, United States           | ???     |
+| NOVEMBER 7, 2025 | [Downstairs at Subterranean](SUBTSAP.md)<br>Chicago, Illinois, United States   | ???     |
+
+
 </details>
 __________________________
 
