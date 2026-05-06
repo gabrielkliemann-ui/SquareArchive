@@ -2,7 +2,7 @@
 SquareArchive is a colletion of tapes, images, interviews of three rock bands: Sap, Scream &amp; Mudhoney
 
 
-[Sap](path/to/file)
+[Sap](SAPMAIN.md)
 
 [Scream](path/to/file)
 
