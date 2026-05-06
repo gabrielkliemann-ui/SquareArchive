@@ -9,6 +9,11 @@
 Date              |          Location            |             Details
 
 APRIL 28, 2022                 ???                               ???
+| Date             | Location                                    | Details |
+| ---------------- | ------------------------------------------- | ------- |
+| January 27, 2023 | House of Commons                            | ???     |
+| March 4, 2023    | House of J<br>Houston, Texas, United States | ???     |
+| ?? ??, 2023      | Green Room<br>Tyler, Texas, United States   | ???     |
 
 
 </details>
