@@ -1,3 +1,37 @@
+ARTIST                          CREW
+-----------------------------------------------
+Evan Fundora (vocals, guitar)   Alex MacLeod (Tour Manager)
+Hank Barna (bass)         Susanne Sasic (Lighting)
+Jared Cox (drums)             Craig Montgomery (Sound)
+                                Barrett Jones (Monitor)
+                                Nic Close (Guitar Tech)
+
+
+BUYER                           SCHEDULE
+-----------------------------------------------
+Bill Silva Presents             Doors: 17:30
+Larry Richter                   Soundcheck: —
+                                Showtime: —
+
+
+SOUNDCHECK + SETLIST            SET RANGE
+-----------------------------------------------
+Soundcheck: No Info             Bleach: 25%
+                                Nevermind: 16.7%
+Drain You                       In Utero: 58.3%
+Aneurysm                        Non-album: 0%
+School
+Floyd The Barber
+Smells Like Teen Spirit
+About A Girl
+Polly
+
+
+
+
+
+
+
 CIRCULATING RECORDINGS
 -----------------------------------------------
 AMT #1
