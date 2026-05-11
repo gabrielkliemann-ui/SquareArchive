@@ -97,7 +97,13 @@ __________________________
 
 <details>
   <summary>2026</summary>
-  insert 2026 information
+  
+| Date             | Location                                    | Details |
+| ---------------- | ------------------------------------------- | ------- |
+| JANUARY 8, 2026 | [White Oak Music Hall](WHITEOAK.md)<br>Houston, Texas, United States   | ???     |
+| JANUARY 10, 2026 | [Paper Tiger](PAPERTIGER26.md)<br>Austin, Texas, United States   | ???     |
+| MAY 17, 2025 | [Rubber Gloves](RUBBERGLOVES25.md)<br>Denton, Texas, United States   | ???     |
+
 </details>
 __________________________
 
