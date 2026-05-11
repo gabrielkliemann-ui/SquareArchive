@@ -51,7 +51,20 @@ __________________________
 | JANUARY 20, 2024 | ???<br>??, ??, United States                | ???     |
 | MAY 24, 2024     | Rubber Gloves<br>Denton, Texas, United States | ???     |
 | MAY 29, 2024     | The Shredder<br>Boise, Idaho, United States | ???     |
-| ?? ??, 2024      | Green Room<br>Tyler, Texas, United States   | ???     |
+| MAY 31, 2024      | Soundwell <br>Salt Lake City, Utah, United States   | ???     |
+| JUNE 1, 2024      | Marquis Theater<br>Denver, Colorado, United States   | ???     |
+| JUNE 3, 2024      | The Rebel Lounge<br>Phoenix, Arizona, United States   | ???     |
+| JUNE 4, 2024      | Voodoo Room<br>San Diego, California, United States   | ???     |
+| JUNE 5, 2024      | El Cid<br>Los Angeles, California, United States   | ???     |
+| JUNE 6, 2024      | Bottom Of the Hill<br>San Francisco, California, United States   | ???     |
+| JUNE 14, 2024      | The Starlighter<br>San Antonio, Texas, United States   | ???     |
+| JUNE, 15, 2024      | The End<br>Houston, Texas, United States   | ???     |
+| AUGUST, 3, 2024      | The Porch<br>San Marcos, Texas, United States   | ???     |
+| AUGUST, 4, 2024      | The Brick<br>San Antonio, Texas, United States   | ???     |
+| OCTOBER, 1, 2024      | Rubber Gloves<br>Denton, Texas, United States   | ???     |
+| OCTOBER, 2, 2024      | Paper Tiger<br>San Antonio, Texas, United States   | ???     |
+| OCTOBER, 3, 2024      | Wonky Power<br>Houston, Texas, United States   | ???     |
+| ??, ??, 2024      | Green Room<br>Tyler, Texas, United States   | ???     |
 
 </details>
 __________________________
