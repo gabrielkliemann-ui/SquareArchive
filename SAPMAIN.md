@@ -3,7 +3,7 @@
   
   <p align="center">HAVE YOU EVER TAPED A SAP SHOW?</p>
   
-  <p align="center">IF YES, PLEASE CONTACT US (saparchive@gmail.com)</p>
+  <p align="center">IF YES, PLEASE CONTACT US (contact.squarearchives@gmail.com)</p>
 <details>
   <summary>2022</summary>
   
