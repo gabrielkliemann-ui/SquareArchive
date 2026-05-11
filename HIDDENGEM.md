@@ -1,14 +1,23 @@
 CIRCULATING RECORDINGS
 -----------------------------------------------
-SBD #1a — 43 min — 9.0
+AMT #1
 | ----------------------------------------------------------------------------------|
 | Equipment:  |
 | Soundboard > Unknown |
 | Lowest Generation: |
-| ANA(1) > FLAC |
-|Length / Sound Quality: |
-| 43 min / 9.0 |
+|Length / Sound Quality: 58 min — 2.0 |
 | Notes: |
-| • In November 2007 another 1st generation tape surfaced. |
-| • More complete, but lower quality than SBD #1b, SBD #1c, SBD #1d, and SBD #1e. |
-| • Complete, uncut, soundboard recording, remixed by Andy Wallace.|
+| • Posted on YouTube on November 8, 2025. |
+| • More complete, but lower quality than AMT #2. |
+-----------------------------------------------
+
+AMT #2
+| ----------------------------------------------------------------------------------|
+| Equipment:  |
+| Soundboard > Unknown |
+| Lowest Generation: |
+|Length / Sound Quality: 49 min — 9.0 |
+| Notes: |
+| • Posted on YouTube on November 8, 2025. |
+| • Less complete, but higher quality than AMT #1. |
+
