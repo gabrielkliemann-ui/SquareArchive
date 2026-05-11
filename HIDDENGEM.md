@@ -1,10 +1,11 @@
-ARTIST               |           CREW
------------------------------------------------
-Evan Fundora (vocals, guitar)   Alex MacLeod (Tour Manager)
-Hank Barna (bass)               Susanne Sasic (Lighting)
-Jared Cox (drums)             Craig Montgomery (Sound)
-                                Barrett Jones (Monitor)
-                                Nic Close (Guitar Tech)
+|ARTIST               |           CREW
+|-----------------------------------------------
+|Evan Fundora (vocals, guitar) |  Alex MacLeod (Tour Manager)
+|Hank Barna (bass)             |  Susanne Sasic (Lighting)
+|Jared Cox (drums)             | Craig Montgomery (Sound)
+                               |
+                               | Barrett Jones (Monitor)
+                               | Nic Close (Guitar Tech)
 
 
 BUYER                |          SCHEDULE
