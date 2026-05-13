@@ -38,12 +38,7 @@ Soundcheck: No Info            Lard Baby: 25%
                                 
                                                        
 
-Aneurysm                        
-School
-Floyd The Barber
-Smells Like Teen Spirit
-About A Girl
-Polly
+
 
 
 
