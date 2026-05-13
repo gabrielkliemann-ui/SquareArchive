@@ -85,6 +85,8 @@ AMT #2
 | Notes: |
 | • Posted on YouTube on January 30, 2026. |
 
+-----------------------------------------------
+
 AMT #3
 | ----------------------------------------------------------------------------------|
 | Equipment: Unknown > Unknown |
@@ -95,6 +97,9 @@ AMT #3
 | • Posted on YouTube on January 24, 2026. |
 | • Includes only "Paper View" |
 | • Has special effects throughout the footage |
+
+-----------------------------------------------
+
 
 UNCIRCULATING RECORDINGS
 -----------------------------------------------
