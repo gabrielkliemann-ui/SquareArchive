@@ -1,4 +1,4 @@
-[SquareArchive](STARTHERE.md)/SapSquare
+[SquareArchive](ASTARTHERE.md)/SapSquare
 
 Welcome
 ----
