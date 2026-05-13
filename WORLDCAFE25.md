@@ -70,11 +70,10 @@ AMT #1
 | Equipment: Unknown > Unknown |
 | Soundboard > Unknown |
 | Lowest Generation: |
-|Length / Sound Quality: 58 min — 2.0 |
+|Length / Sound Quality: 24 min — 9.0 |
 | Notes: |
 | • Posted on YouTube on January 24, 2026. |
-| • More complete, and higher quality than AMT #2. |
-| • 
+
 -----------------------------------------------
 
 AMT #2
@@ -82,11 +81,20 @@ AMT #2
 | Equipment: Unknown > Unknown |
 | Soundboard > Unknown |
 | Lowest Generation: |
-|Length / Sound Quality: 49 min — 9.0 |
+| Length / Sound Quality: 28 min — 4.0 |
 | Notes: |
 | • Posted on YouTube on January 30, 2026. |
-| • Less complete, and lower quality than AMT #1. |
-| • Most songs have been placed differently. |
+
+AMT #3
+| ----------------------------------------------------------------------------------|
+| Equipment: Unknown > Unknown |
+| Soundboard > Unknown |
+| Lowest Generation: |
+| Length / Sound Quality: 2 min — 9.0 |
+| Notes: |
+| • Posted on YouTube on January 24, 2026. |
+| • Includes only "Paper View" |
+| • Has special effects throughout the footage |
 
 UNCIRCULATING RECORDINGS
 -----------------------------------------------
@@ -95,6 +103,6 @@ PRO #1
 AMT #1 contain clips from PRO #1
 
 
-AMT #3
+AMT #4
 
 at one point, to the left of the stage, you can see a guy holding up a phone most likely recording.
