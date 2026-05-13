@@ -7,7 +7,7 @@ Performances
 [Session Chronology].(SESSIONS.md)
 --------------------------------
 
-
+-----
 
 Press
 -------------------------------
