@@ -34,7 +34,7 @@ SCHEDULE
 SOUNDCHECK + SETLIST |           SET RANGE
 -----------------------------------------------
 Soundcheck: No Info                    Lard Baby: 25%
-                                       Erasure: 16.7
+                                      Erasure: 16.7
                                 
                                                        
 
