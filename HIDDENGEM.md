@@ -31,22 +31,24 @@ SCHEDULE
  Soundcheck:
  
  No info
+
 -----------------
-What's You're Name Again?
-Paper View
-Trashman
-High Chair (false start)
-High Chair
-Taste The Rain
-Pleasantries
-Pigsty
-Piddle my Sheets
-B for Boy
-Fatal Love
-Shiver
-Pickle Song
-Kiss My Kitty Cat
-Mr.John
+
+ What's You're Name Again?
+ Paper View
+ Trashman
+ High Chair (false start)
+ High Chair
+ Taste The Rain
+ Pleasantries
+ Pigsty
+ Piddle my Sheets
+ B for Boy
+ Fatal Love
+ Shiver
+ Pickle Song
+ Kiss My Kitty Cat
+ Mr.John
 
                               
 
