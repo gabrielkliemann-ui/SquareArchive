@@ -109,3 +109,8 @@ no info
 <span style="color:red">Red text</span>
 
 ![Error](https://img.shields.io/badge/Error-red)
+
+
+```diff
+- Error
+```
