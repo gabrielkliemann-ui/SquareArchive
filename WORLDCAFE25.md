@@ -97,4 +97,4 @@ AMT #1 contain clips from PRO #1
 
 AMT #3
 
-at one point, to the left of the screen of the stage, you can see a guy holding up a phone most likely recording.
+at one point, to the left of the stage, you can see a guy holding up a phone most likely recording.
