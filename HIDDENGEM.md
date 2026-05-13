@@ -31,7 +31,7 @@ SCHEDULE
  Showtime:
  
 -----------------------------------------------
-SOUNDCHECK
+SETLIST
 -
 
  Soundcheck:
