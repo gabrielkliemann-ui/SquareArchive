@@ -2,7 +2,7 @@
 
 
 
-ARTIST         |      |      |CREW
+ARTIST         
 -----------------------------------------------
 Evan Fundora (vocals, guitar)   
 Hank Barna (bass)               
