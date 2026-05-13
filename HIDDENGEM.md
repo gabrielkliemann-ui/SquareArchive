@@ -23,9 +23,9 @@ UNKNOWN (Guitar Tech)
 
 BUYER                |          SCHEDULE
 -----------------------------------------------
-UNKNOWN                         Doors: 17:30
-UNKNOWN                         Soundcheck: —
-                                Showtime: —
+UNKNOWN              |           Doors: 17:30
+                     |            Soundcheck:
+—Showtime: —                                
 
 
 SOUNDCHECK + SETLIST |           SET RANGE
