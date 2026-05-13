@@ -92,4 +92,4 @@ UNCIRCULATING RECORDINGS
 -----------------------------------------------
 PRO #1
 
-clips from AMT #1 contain PRO #1
+AMT #1 contain clips from PRO #1
