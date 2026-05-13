@@ -103,11 +103,9 @@ AMT #3
 
 UNCIRCULATING RECORDINGS
 -----------------------------------------------
-PRO #1
-
+PRO #1               
 AMT #1 contain clips from PRO #1
 
 
-AMT #4
-
+AMT #4               
 at one point, to the left of the stage, you can see a guy holding up a phone most likely recording.
