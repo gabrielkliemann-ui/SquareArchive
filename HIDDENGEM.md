@@ -112,5 +112,5 @@ no info
 
 
 ```diff
-- Error
+Error
 ```
