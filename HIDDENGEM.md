@@ -23,8 +23,8 @@ UNKNOWN (Guitar Tech)
 
 BUYER                |          SCHEDULE
 -----------------------------------------------
-Bill Silva Presents             Doors: 17:30
-Larry Richter                   Soundcheck: —
+UNKNOWN                         Doors: 17:30
+UNKNOWN                         Soundcheck: —
                                 Showtime: —
 
 
