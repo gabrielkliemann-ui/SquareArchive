@@ -21,11 +21,15 @@ UNKNOWN (Guitar Tech)
 
 
 
-BUYER                |          SCHEDULE
+ BUYER                
 -----------------------------------------------
-UNKNOWN              |           Doors: 17:30
-                     |            Soundcheck:
-—Showtime: —                                
+ UNKNOWN                         
+
+SCHEDULE
+------------------------------------------------
+ Doors: 17:30                                
+ Soundcheck:
+ —Showtime: —                                
 
 
 SOUNDCHECK + SETLIST |           SET RANGE
