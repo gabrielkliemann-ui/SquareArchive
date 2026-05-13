@@ -12,10 +12,10 @@ Jared Cox (drums)
 CREW
 -----------------------------------------------
 UNKNOWN (Tour Manager)
-Susanne Sasic (Lighting)              
-Craig Montgomery (Sound)
-Barrett Jones (Monitor)
-Nic Close (Guitar Tech)
+UNKNOWN (Lighting)              
+UNKNOWN (Sound)
+UNKNOWN (Monitor)
+UNKNOWN (Guitar Tech)
 
                               
 
