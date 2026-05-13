@@ -111,6 +111,4 @@ no info
 ![Error](https://img.shields.io/badge/Error-red)
 
 
-```diff
-Error
-```
+<span style="color:red">Error</span>
