@@ -105,3 +105,5 @@ AMT #2
 UNCIRCULATING RECORDINGS
 -----------------------------------------------
 no info
+
+<span style="color:red">Red text</span>
