@@ -12,9 +12,13 @@ Jared Cox (drums)
 CREW
 -----------------------------------------------
 UNKNOWN (Tour Manager)
-UNKNOWN (Lighting)              
+
+UNKNOWN (Lighting)   
+
 UNKNOWN (Sound)
+
 UNKNOWN (Monitor)
+
 UNKNOWN (Guitar Tech)
 
                               
