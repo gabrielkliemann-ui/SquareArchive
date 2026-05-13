@@ -6,7 +6,8 @@ Welcome
 -------------------------------
 
 
-         Performances
+Performances
+
 -------------------------------
 [Concert Chronology](SAPMAIN.md)
 --------------------------------
@@ -16,6 +17,7 @@ Welcome
 -----
 
 Press
+
 -------------------------------
 [Interview Chronology](SAPINTERVIEW.md)
 --------------------------------
