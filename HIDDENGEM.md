@@ -20,7 +20,6 @@ UNKNOWN (Guitar Tech)
                               
 
 
-
  BUYER                
 -----------------------------------------------
  UNKNOWN                         
@@ -34,10 +33,12 @@ SCHEDULE
 
 SOUNDCHECK + SETLIST |           SET RANGE
 -----------------------------------------------
-Soundcheck: No Info             Bleach: 25%
-                                Nevermind: 16.7%
-Drain You                       In Utero: 58.3%
-Aneurysm                        Non-album: 0%
+Soundcheck: No Info            Lard Baby: 25%
+                               Erasure: 16.7
+                                
+                                                       
+
+Aneurysm                        
 School
 Floyd The Barber
 Smells Like Teen Spirit
