@@ -31,11 +31,14 @@ SCHEDULE
  Showtime:
  
 -----------------------------------------------
+SOUNDCHECK
+-
+
  Soundcheck:
 
  no info
  
------------------
+
 
  What's You're Name Again?
  
