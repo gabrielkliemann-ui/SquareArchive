@@ -73,24 +73,10 @@ SETLIST
  
  Mr.John
 
-                              
-
-
-SOUNDCHECK + SETLIST |           SET RANGE
------------------------------------------------
-Soundcheck: No Info                    
+                            
                                       
                                 
                                                        
-
-
-
-
-
-
-
-
-
 CIRCULATING RECORDINGS
 -----------------------------------------------
 AMT #1
