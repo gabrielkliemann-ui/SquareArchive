@@ -82,7 +82,7 @@ __________________________
 | OCTOBER 21, 2025  | [???](NOINFO.md)<br>Lauderdale, Florida, United States           |  Show Some Manners Tour   |
 | OCTOBER 25, 2025  | [The Milestone club](NOINFO.md)<br>Charlotte, North Carolina, United States           |  Show Some Manners Tour   |
 | OCTOBER 27, 2025  | [Pie Shop](NOINFO.md)<br>Washington, District of Columbia, United States           |  Show Some Manners Tour   |
-| OCTOBER 28, 2025  | [World Cafe](NOINFO.md)<br>Philadelphia, Pennsylvania, United States           |  Show Some Manners Tour   |
+| OCTOBER 28, 2025  | [World Cafe](WORLDCAFE25.md)<br>Philadelphia, Pennsylvania, United States           |  Show Some Manners Tour   |
 | OCTOBER 30, 2025  | [Gold Sounds](NOINFO.md)<br>Brooklyn, New York, United States           |  Show Some Manners Tour   |
 | NOVEMBER 4, 2025 | [???](NOINFO.md)<br>Boston, Massachusetts, United States   | Show Some Manners Tour     |
 | NOVEMBER 6, 2025 | [Hidden Gem Club](HIDDENGEM.md)<br>Dayton, Ohio, United States   | Show Some Manners Tour     |
