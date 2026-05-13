@@ -26,11 +26,12 @@ UNKNOWN (Guitar Tech)
 
 SCHEDULE
 ------------------------------------------------
- Doors: 
- Showtime:
- Soundcheck:
+ Doors:
  
- No info
+ Showtime:
+ 
+ Soundcheck:
+ -No info
 
 -----------------
 
