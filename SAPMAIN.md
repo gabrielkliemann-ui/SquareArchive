@@ -102,7 +102,14 @@ __________________________
 | ---------------- | ------------------------------------------- | ------- |
 | JANUARY 8, 2026 | [White Oak Music Hall](WHITEOAK.md)<br>Houston, Texas, United States   | ???     |
 | JANUARY 10, 2026 | [Paper Tiger](PAPERTIGER26.md)<br>Austin, Texas, United States   | ???     |
-| MAY 17, 2025 | [Rubber Gloves](RUBBERGLOVES25.md)<br>Denton, Texas, United States   | ???     |
+| MAY 19, 2026 | [The Griffin](THEGRIFFIN.md)<br>Las Vegas, Nevada, United States   | ???     |
+| MAY 20, 2026 | [El Cid](ELCID26.md)<br>Los Angeles, California, United States   | ???     |
+| MAY 22, 2026 | [Cafe Colonial](CAFECOLONIAL26.md)<br>Sacramento, California, United States   | ???     |
+| MAY 24, 2026 | [Turn! Turn! Turn!](TURNTURNTURN.md)<br>Portland, Oregon, United States   | ???     |
+| MAY 25, 2026 | [Funhouse](FUNHOUSE26.md)<br>Seattle, Washington, United States   | ???     |
+| MAY 27, 2026 | [Shrine Social Club](SHRINE26.md)<br>Boise, Idaho, United States   | ???     |
+| MAY 28, 2026 | [Kilby Court](KILBY26.md)<br>Salt Lake City, Utah, United States   | ???     |
+| MAY 31, 2026 | [Encore](ENCORE26.md)<br>Kansas City, Missouri, United States   | ???     |
 
 </details>
 __________________________
