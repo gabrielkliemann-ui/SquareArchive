@@ -31,7 +31,7 @@ SCHEDULE
  Showtime:
  
 -----------------------------------------------
- Soundcheck:                                                                                                                                                                                               No info
+ Soundcheck:                                                                                                                                                                                                No info
 
 -----------------
 
