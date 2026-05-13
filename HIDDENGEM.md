@@ -39,7 +39,8 @@ SETLIST
  no info
 
 -----
- 
+ SET RANGE
+ -
 
 
  What's You're Name Again?
@@ -77,8 +78,8 @@ SETLIST
 
 SOUNDCHECK + SETLIST |           SET RANGE
 -----------------------------------------------
-Soundcheck: No Info                    Lard Baby: 25%
-                                      Erasure: 16.7
+Soundcheck: No Info                    
+                                      
                                 
                                                        
 
