@@ -6,7 +6,6 @@ personnel
 -----------------------------------------------
 ####  interviewer(s)
 Eli Duncan-High
-
 #### interviewee(s)
 Evan Fundora    
 Hank Barna                
