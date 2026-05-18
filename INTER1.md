@@ -14,7 +14,7 @@ Jared Cox
                                
 sources
 -----------------------------------------------
-UNKNOWN (Tour Manager)
+#### Medium    #### Publisher    #### Date of Issue    #### Title    #### Transcripts
 UNKNOWN (Lighting)              
 UNKNOWN (Sound)
 UNKNOWN (Monitor)
