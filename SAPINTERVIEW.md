@@ -48,7 +48,7 @@ __________________________
 
 | Date             | Location                                    | Interviewer | Archived |
 | ---------------- | ------------------------------------------- | ----------- | -------- |
-| JANUARY 21, 2024   | [???](INTER1.md)<br>??, ??, United States  Eli Duncan-High | ???     | ???     |
+| JANUARY 21, 2024   | [???](INTER1.md)<br>??, ??, United States |Eli Duncan-High | ???     |
 
 
 </details>
