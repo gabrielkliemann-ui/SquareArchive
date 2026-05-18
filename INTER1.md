@@ -14,11 +14,10 @@ Jared Cox
                                
 sources
 -----------------------------------------------
-#### Medium    #### Publisher    #### Date of Issue    #### Title    #### Transcripts
-UNKNOWN (Lighting)              
-UNKNOWN (Sound)
-UNKNOWN (Monitor)
-UNKNOWN (Guitar Tech)
+
+| Medium           | Publisher                                    | Date of Issue | Title | Transcripts |
+| ---------------- | -------------------------------------------- | ------------- | ----- | ----------- |
+| APRIL 28, 2022   | [???](UNKNOWNSAP1.md)<br>??, ??, United States | ???         | ???   | ???         |
 
                               
 
