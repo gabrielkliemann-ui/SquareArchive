@@ -8,7 +8,8 @@
   
 | Date             | Location                                    | Details |
 | ---------------- | ------------------------------------------- | ------- |
-| MAY 19, 2026 | The Griffin<br>Las Vegas, Nevada, United States | The band's tour van broke down     |
+| MAY 19, 2026 | The Griffin<br>Las Vegas, Nevada, United States | The band's tour
+van broke down.     |
 
 
 
