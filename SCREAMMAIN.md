@@ -9,7 +9,7 @@
   
 | Date             | Location                                    | Details |
 | ---------------- | ------------------------------------------- | ------- |
-| SEPTEMBER 21, 1982   | [Tiffany's](NOINFOSCREAM.md)<br> Glasgow, United Kingdom                | ???     |
+| SEPTEMBER 21, 1982   | [Tiffany's](NOINFOSCREAM.md)<br> Glasgow, Scotland, United Kingdom                | ???     |
 
 
 
