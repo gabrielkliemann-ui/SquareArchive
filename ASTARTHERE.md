@@ -5,7 +5,7 @@ SquareArchive is a colletion of tapes, images, interviews of three rock bands: S
 
 [Sap](SAPARCHIVE.md)
 
-[Scream](path/to/file)
+[Scream](SCREAMARCHIVE.md)
 
 [Green Day](path/to/file)
 
