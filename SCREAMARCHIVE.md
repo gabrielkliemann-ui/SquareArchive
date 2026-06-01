@@ -9,10 +9,10 @@ Welcome
 Performances
 -
 -------------------------------
-[Concert Chronology](SAPMAIN.md)
+[Concert Chronology](SCREAMMAIN.md)
 
 --------------------------------
-[Session Chronology].(SESSIONS.md)
+[Session Chronology](SCREAMSESSIONS.md)
 
 --------------------------------
 
@@ -21,9 +21,9 @@ Performances
 Press
 -
 -------------------------------
-[Interview Chronology](SAPINTERVIEW.md)
+[Interview Chronology](SCREAMINTERVIEW.md)
 
 --------------------------------
-[Photo History].(PRESSPHOTOS.md)
+[Photo History](SCREAMPHOTOS.md)
 
 --------------------------------
