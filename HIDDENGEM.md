@@ -67,10 +67,10 @@ CIRCULATING RECORDINGS
 AMT #1
 | ----------------------------------------------------------------------------------|
 | Equipment:  |
-| Soundboard > Unknown |
+| 8 mm Tape Recorder > YouTube |
 | Lowest Generation: |
-|Length / Sound Quality: 58 min — 2.0 |
-| Notes: |
+|Length / Sound Quality: 58 min — N/A|
+| Notes: Tape cuts to What's You're Name Again? due to batteries dying. |
 | • Posted to YouTube on November 8, 2025. |
 
 -----------------------------------------------
