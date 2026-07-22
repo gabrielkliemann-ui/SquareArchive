@@ -1,10 +1,5 @@
 [SquareArchive](ASTARTHERE.md)/SapSquare
 
-Welcome
-----
-
-
-
 
 ## Performances
 
